@@ -1,0 +1,12 @@
+{
+  "name": "rocket-kart-arena",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "vite --host 0.0.0.0"
+  },
+  "dependencies": {
+    "vite": "^5.4.11",
+    "three": "^0.170.0"
+  }
+}
